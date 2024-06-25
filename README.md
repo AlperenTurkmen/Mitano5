@@ -50,3 +50,10 @@ Hedef Kitle
 
 Toplantı ve Whatsapp screenShotları
 ![WhatsApp Image 2024-06-25 at 18 01 36](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/9763a3f5-7c76-4fcd-bf94-a813e68fdfe2)   ![WhatsApp Image 2024-06-25 at 18 01 37](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/0d49a877-ccb7-4420-8e2d-151f80b2347a)
+
+
+- Sprint içi puan değerlendirmesi .... olarak belirlenmiştir. Puan tamamlama mantığı tüm görevlere eşit puan dağılımları yapılmış ve sprintlere bölünmüştür. Her sprint sonunda hedeflenen puan belirlenmiştir.
+- Sprint 1 de hedeflenen puanımız ....
+- Elde ettiğimiz puan ....
+
+Daily Scrum: Aldığımız toplantılar neticesinde hedeflediğimiz oyunun 4 tane tasarımının yapımına karar verilmiş. Ekipte developer ve product owner olarak görev alan arkadaşlarımızdan her biri karar verilen tasarımı çıkartacaktır.
