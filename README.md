@@ -41,8 +41,10 @@ Hedef Kitle
 
 - +12
 - Nostalji severler
+- Gen Z ve üstü sokakta büyümüş nesil
 - Rekabet Sevenler
 - PC oyuncuları
+
   
 
 
