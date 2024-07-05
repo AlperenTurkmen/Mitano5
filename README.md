@@ -25,7 +25,7 @@ https://app.asana.com/0/1207598442946756/1207598615245812
 
 Oyun Açıklaması
 
-Developerlarımız tarafından yeniden dizayn edilmiş çocukluğumuzun sokak ve bahçe oyunlarını dijital ortamda yeniden yaşatan-------- (oyunumuzun ismi). Geniş bir harita üzerinde farklı oyun alanlarına sahip olan bu oyunda, seksek, saklambaç, istop, yakan top ve daha birçok klasik oyunu modern grafikler ve etkileşimli özelliklerle oynayabilirsiniz. Hem arkadaşlarınızla çok oyunculu modda eğlenceli vakit geçirebilir hem de tek başınıza nostaljik anılarınızı canlandırabilirsiniz.
+Developerlarımız tarafından yeniden dizayn edilmiş çocukluğumuzun sokak ve bahçe oyunlarını dijital ortamda yeniden yaşatan oyunumuz OLD GAMES. Geniş bir harita üzerinde farklı oyun alanlarına sahip olan bu oyunda, seksek, saklambaç, istop, yakan top ve daha birçok klasik oyunu modern grafikler ve etkileşimli özelliklerle oynayabilirsiniz. Hem arkadaşlarınızla çok oyunculu modda eğlenceli vakit geçirebilir hem de tek başınıza nostaljik anılarınızı canlandırabilirsiniz.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,14 +33,17 @@ Oyunun Özellikleri
 
 - 3D
 - Multiplayer
--
+- 
 -
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hedef Kitle
 
-- 
+- +12
 - Nostalji severler
+- Rekabet Sevenler
+- PC oyuncuları
+  
 
 
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -56,4 +59,4 @@ Toplantı ve Whatsapp screenShotları
 - Sprint 1 de hedeflenen puanımız ....
 - Elde ettiğimiz puan ....
 
-Daily Scrum: Aldığımız toplantılar neticesinde hedeflediğimiz oyunun 4 tane tasarımının yapımına karar verilmiş. Ekipte developer ve product owner olarak görev alan arkadaşlarımızdan her biri karar verilen tasarımı çıkartacaktır.
+Daily Scrum: Aldığımız toplantılar neticesinde hedeflediğimiz 4 oyun tasarımının yapımına karar verilmiş. Ekipte developer ve product owner olarak görev alan arkadaşlarımızdan her biri karar verilen tasarımı çıkartacaktır.
