@@ -67,7 +67,10 @@ Daily Scrum: Aldığımız toplantılar neticesinde hedeflediğimiz 4 oyun tasar
 
 Ürünümüzün Gelişim Aşamaları
 
-![image](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/6eb8b04d-7083-4398-ac82-c64911602db2).  
+![image](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/6eb8b04d-7083-4398-ac82-c64911602db2)
+![WhatsApp Image 2024-06-25 at 20 20 57](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/e324b6aa-b1f7-4d63-a015-b338a483d073)
+![Screenshot (234)](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/df7944eb-f608-48e2-8f99-bee9da7d2641)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
