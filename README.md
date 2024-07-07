@@ -62,3 +62,7 @@ Toplantı ve Whatsapp screenShotları
 - Elde ettiğimiz puan 5
 
 Daily Scrum: Aldığımız toplantılar neticesinde hedeflediğimiz 4 oyun tasarımının yapımına karar verilmiş. Ekipte developer ve product owner olarak görev alan arkadaşlarımızdan her biri karar verilen tasarımı çıkartacaktır.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ürünümüzün Gelişim Aşamaları 
