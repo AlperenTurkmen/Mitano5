@@ -15,7 +15,7 @@ Beyza Balım Camgöz - Scrum Master
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Oyunun İsmi 
 
-
+Nostalgia
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Product Backlog URL
 
@@ -25,7 +25,7 @@ https://app.asana.com/0/1207598442946756/1207598615245812
 
 Oyun Açıklaması
 
-Developerlarımız tarafından yeniden dizayn edilmiş çocukluğumuzun sokak ve bahçe oyunlarını dijital ortamda yeniden yaşatan oyunumuz OLD GAMES. Geniş bir harita üzerinde farklı oyun alanlarına sahip olan bu oyunda, seksek, saklambaç, istop, yakan top ve daha birçok klasik oyunu modern grafikler ve etkileşimli özelliklerle oynayabilirsiniz. Hem arkadaşlarınızla çok oyunculu modda eğlenceli vakit geçirebilir hem de tek başınıza nostaljik anılarınızı canlandırabilirsiniz.
+Developerlarımız tarafından yeniden dizayn edilmiş çocukluğumuzun sokak ve bahçe oyunlarını dijital ortamda yeniden yaşatan oyunumuz Nostalgia . Geniş bir harita üzerinde farklı oyun alanlarına sahip olan bu oyunda, seksek, saklambaç, istop, yakan top ve daha birçok klasik oyunu modern grafikler ve etkileşimli özelliklerle oynayabilirsiniz. Hem arkadaşlarınızla çok oyunculu modda eğlenceli vakit geçirebilir hem de tek başınıza nostaljik anılarınızı canlandırabilirsiniz.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
