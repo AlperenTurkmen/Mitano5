@@ -67,6 +67,15 @@ Daily Scrum: Aldığımız toplantılar neticesinde hedeflediğimiz 4 oyun tasar
 
 Ürünümüzün Gelişim Aşamaları
 
-![image](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/6eb8b04d-7083-4398-ac82-c64911602db2)
+![image](https://github.com/AlperenTurkmen/Mitano5/assets/163754127/6eb8b04d-7083-4398-ac82-c64911602db2).  
 
+------------------------------------------------------------------------------------------------------------------------------------
 
+Sprint Rewiev
+*Tasarımı yapılacak her oyun için assetlere karar verilmiştir.
+*Level tasarımına başlanmıştır
+*Oyunumuzda saklambaç, istop, yakantoptan esinlenerek tasarımların yapılmasında anlaşmaya varılmıştır.
+
+Sprint Retrospective 
+*2 günde bir planlanan toplantılar organize edilmiş ve ekibin tüm üyeleri tarafından katılım sağlanmıştır.
+* Project Owner ve Scrum master belirlenmiştir.
