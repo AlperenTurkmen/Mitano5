@@ -84,3 +84,31 @@ Sprint Retrospective
 
 * 2 günde bir planlanan toplantılar organize edilmiş ve ekibin tüm üyeleri tarafından katılım sağlanmıştır.
 * Project Owner ve Scrum master belirlenmiştir.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+SPRİNT 2
+---------------------------------------------------------------------------------------------------------------------
+
+- SPRİNT İÇİ TAHMİN EDİLEN PUAN : 10
+- ULAŞILAN PUAN: 10
+
+
+Whatsap Screenshots ve Oyunun ilerleyişi: 
+
+
+Daily Scrum: Bu sprint dönemi boyunca toplantı yapılmamasına karar verilmiştir. aktif olarak whatsapp üzerinden iletişim krulmuştur. 2 tane game developer arkadaşımız projelerini birleştirme ve yardımlaşma kararı almıştır. Günlük olarak oyunun aşamaları developer tarafımızdan tamamlanmıştır. ( üyelerin staj yoğunlukları sebebiyle toplantı alınamadı)
+
+Sprint Review: 
+1.) oyuncunun oyun içinde sağ tıkladığında ortaya çıkan crosshair veya hedefleme işaretçisi geliştirilmiştir.
+2.) Topu yerden alma animasyonu geliştirilmiştir.
+3.) Ana karakterimizin iskelet yapısı tamamlanmıştır.
+4.) Oyunun giriş menüsü hazırlanmıştır.
+5.) oyun içi kullanılacak NPC lere karar verilmiştir.
+
+
+Sprint Retrospective:
+1.) Diğer sprint sürecinde toplantı alımına karar verilmiştir.
+2.) Daha aktif olmak için anlaşmaya varılmıştır.
