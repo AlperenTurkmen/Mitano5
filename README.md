@@ -99,8 +99,7 @@ SPRİNT 2
 Whatsap Screenshots ve Oyunun ilerleyişi: 
 ![IMG_7344](https://github.com/user-attachments/assets/d2b97dc2-567c-45de-b6df-867f289d2436)
 ![PHOTO-2024-07-19-21-37-46](https://github.com/user-attachments/assets/ad68abf0-1257-44c2-b5db-872e7bd8b460)
-![Ekran görüntüsü 2024-07-21 232706](https://github.com/user-attachments/assets/2f5d5468-6c1b-462b-91d5-52c780b3c23d)
-
+[image](https://github.com/user-attachments/assets/eca940b7-305b-4239-bc6f-5d375c368005)
 
 Daily Scrum: Bu sprint dönemi boyunca toplantı yapılmamasına karar verilmiştir. aktif olarak whatsapp üzerinden iletişim krulmuştur. 2 tane game developer arkadaşımız projelerini birleştirme ve yardımlaşma kararı almıştır. Günlük olarak oyunun aşamaları developer tarafımızdan tamamlanmıştır. ( üyelerin staj yoğunlukları sebebiyle toplantı alınamadı)
 
