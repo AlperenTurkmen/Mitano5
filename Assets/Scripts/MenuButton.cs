@@ -4,26 +4,52 @@ using UnityEngine;
 
 public class MenuButton : MonoBehaviour
 {
-	[SerializeField] MenuButtonController menuButtonController;
-	[SerializeField] Animator animator;
-	[SerializeField] AnimatorFunctions animatorFunctions;
-	[SerializeField] int thisIndex;
+    [SerializeField] MenuButtonController menuButtonController;
+    [SerializeField] Animator animator;
+    [SerializeField] AnimatorFunctions animatorFunctions;
+    [SerializeField] int thisIndex;
 
-    // Update is called once per frame
     void Update()
     {
-		if(menuButtonController.index == thisIndex)
-		{
-			Debug.Log("Does it go in?");
-			animator.SetBool ("selected", true);
-			if(Input.GetAxis ("Submit") == 1){
-				animator.SetBool ("pressed", true);
-			}else if (animator.GetBool ("pressed")){
-				animator.SetBool ("pressed", false);
-				animatorFunctions.disableOnce = true;
-			}
-		}else{
-			animator.SetBool ("selected", false);
-		}
+        if (menuButtonController.index == thisIndex)
+        {
+            animator.SetBool("selected", true);
+            if (Input.GetAxis("Submit") == 1)
+            {
+                animator.SetBool("pressed", true);
+            }
+            else if (animator.GetBool("pressed"))
+            {
+                animator.SetBool("pressed", false);
+                animatorFunctions.disableOnce = true;
+            }
+        }
+        else
+        {
+            animator.SetBool("selected", false);
+        }
+
+        // Check if the "Enter" key is pressed to quit the game
+        if (Input.GetKeyDown(KeyCode.Return) && menuButtonController.index == 2)
+        {
+            // Start the coroutine to wait and then quit
+            StartCoroutine(QuitAfterDelay(0.5f));
+        }
+    }
+
+    IEnumerator QuitAfterDelay(float delay)
+    {
+        // Wait for the specified delay
+        yield return new WaitForSeconds(delay);
+
+        // Quit the game
+        Application.Quit();
+
+        // If running in the Unity Editor, stop playing the scene
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+#endif
+
+        Debug.Log("Game is exiting");
     }
 }
