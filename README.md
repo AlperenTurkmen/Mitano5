@@ -139,6 +139,12 @@ SPRİNT 3
   Oyun Videomuz:
   https://www.youtube.com/watch?v=hQtxKUfUB0Q
 
+  Oyun İçi Faturalarımız:
+  [Adventure-fatura.pdf](https://github.com/user-attachments/files/16475045/Adventure-fatura.pdf)
+[Western-fatura.pdf](https://github.com/user-attachments/files/16475047/Western-fatura.pdf)
+[Nature-fatura.pdf](https://github.com/user-attachments/files/16475048/Nature-fatura.pdf)
+
+
 
   Sprint Rewiev:
   -  En başta yapılan toplantı sonucunda yapılması gereken: level tasarımı, asset belirlenmesi, görev paylaşımı, zaman çizelgesi oluşturulması görevleri başarıyla tamamlanmıştır.
