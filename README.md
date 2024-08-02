@@ -132,6 +132,9 @@ SPRİNT 3
   Daily Scrum: Whatsappta yapılan aktif görüşmeler sonucu toplantı almaya gerek kalmadan oyun içi iletişim sağlanmıştır.
   Asana Linki bulunmaktadır: https://app.asana.com/0/1207598442946756/1207598615245812
 
+  whatsapp screenshots:
+ 
+
   Oyun içi görsellerimiz:
 
 
