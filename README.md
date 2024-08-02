@@ -33,9 +33,7 @@ Oyunun Özellikleri
 
 - 3D
 - Multiplayer
-- 
--
-
+  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hedef Kitle
 
@@ -121,3 +119,25 @@ Sprint Retrospective:
 
 1.) Diğer sprint sürecinde toplantı alımına karar verilmiştir.
 2.) Daha aktif olmak için anlaşmaya varılmıştır.
+
+
+
+---------------------------------------------------------------------------
+SPRİNT 3
+---------------------------------------------------------------------------
+- SPRİNT İÇİ TAHMİN EDİLEN PUAN: 3
+- ULAŞILAN PUAN: 3
+- HEDEFLENEN PUANA ULAŞILMIŞTIR.
+
+  Daily Scrum: Whatsappta yapılan aktif görüşmeler sonucu toplantı almaya gerek kalmadan oyun içi iletişim sağlanmıştır.
+  Asana Linki bulunmaktadır: https://app.asana.com/0/1207598442946756/1207598615245812
+
+  Oyun içi görsellerimiz:
+
+
+  Sprint Rewiev:
+  -  En başta yapılan toplantı sonucunda yapılması gereken: level tasarımı, asset belirlenmesi, görev paylaşımı, zaman çizelgesi oluşturulması görevleri başarıyla tamamlanmıştır.
+  -  Tamamlanması gereken 18 puan tamamlandı.
+
+  Sprint Resrospective:
+  - Saygı çerçevesini aşmadan, zaman çizelgesine uygun şekilde bu süreç tamamlanmış ve gelecek süreçlerde iletişimde kalınacağına dair karara varılmıştır.
