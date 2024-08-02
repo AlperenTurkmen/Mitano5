@@ -136,7 +136,8 @@ SPRİNT 3
   ![Ekran Resmi 2024-08-02 - 11 23 57](https://github.com/user-attachments/assets/443aa996-8205-44c4-a346-46517d2a5a07)
  
 
-  Oyun içi görsellerimiz:
+  Oyun Videomuz:
+  https://www.youtube.com/watch?v=hQtxKUfUB0Q
 
 
   Sprint Rewiev:
