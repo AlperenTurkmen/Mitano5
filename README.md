@@ -133,6 +133,7 @@ SPRİNT 3
   Asana Linki bulunmaktadır: https://app.asana.com/0/1207598442946756/1207598615245812
 
   whatsapp screenshots:
+  ![Ekran Resmi 2024-08-02 - 11 23 57](https://github.com/user-attachments/assets/443aa996-8205-44c4-a346-46517d2a5a07)
  
 
   Oyun içi görsellerimiz:
